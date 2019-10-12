@@ -9,10 +9,7 @@ int main()
         {
             arr[0]=arr[i];
         }
-        else
-        {
-            continue;
-        }
+      
 
     }
     cout<<"greater"<<arr[0];
